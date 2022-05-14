@@ -1,0 +1,211 @@
+.header{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(26, 23, 23);
+}
+.href{
+    display: inline-block;
+    margin-top: 50px;
+    color:rgb(163, 151, 151);
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav{
+    margin-left: 100px;
+}
+.heading-name{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:100px 400px;
+    text-align: center;
+    color:whitesmoke;
+    letter-spacing: 1px;
+}
+
+.body1{
+    width: 900px;
+    padding-left: 250px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.kazi-p{
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-shadow: 0 0 1px black, 0 0 2px #0000FF; */
+}
+.kazi-img{
+    width: 250px;
+    height: 300px;
+    padding-left: 30px;
+}
+.kazi-btn{
+    text-align: center;
+    padding-top: 50px;
+}
+.kazi-btns{
+    padding: 15px 15px;
+    text-align: center;
+}
+.bt1{
+    background-color: gainsboro;
+    border: none;
+    border-radius: 4px;
+}
+.bt2{
+    background-color: rgb(214, 13, 13);
+    border: none;
+    border-radius: 4px;
+    color: whitesmoke;
+}
+.fa-youtube-play{
+    color: whitesmoke;
+}
+.bt3{
+    background-color: rgb(221, 80, 24);
+    border: none;
+    border-radius: 4px;
+    color: whitesmoke;
+}
+.fa-amazon{
+    color:whitesmoke;
+}
+.body2{
+    background-color: rgb(26, 23, 23);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:whitesmoke;
+    letter-spacing: 1px;
+    width:100%;
+    height: 100px;
+    padding-top: 35px;
+}
+.awards{
+    width:100%;
+    text-align: center;
+    border-bottom: 1px solid thistle;
+    line-height: 0.1em;
+    margin:10px 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+}
+
+.awards span{
+    background: #fff;
+    padding: 0 10px;
+}
+.awards1{
+    width: 900px;
+    padding-left: 250px;
+    padding-top: 50px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+sub{
+    font-size: 75%;
+    opacity: 0.40;
+}
+.parent1{
+    display: inline-block;
+    border:1px solid thistle;
+    border-radius: 5px;
+    padding:10px;
+}
+.hidden1{
+    visibility: hidden;
+}
+.poetry{ 
+    width: 900px;
+    padding-left: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.poetry span{
+    background: #fff;
+    /* padding: 0 10px; */
+}
+
+.poetry-list1{
+    display: inline-block;
+    width:420px;
+    text-align: center;
+    border-bottom: 1px solid thistle;
+    line-height: 0.1em;
+    margin:10px 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.poetry-list2{
+    display: inline-block;
+    width:420px;
+    text-align: center;
+    border-bottom: 1px solid thistle;
+    line-height: 0.1em;
+    margin:10px 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.poetry-list1-lines{
+    display: inline-block;
+    padding-top: 20px;
+    width:420px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.poetry-list2-lines{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 30px;
+    width:420px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(26, 23, 23);
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.footer-body{
+    width: 900px;
+    padding-left: 250px;
+    padding-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+.hilight{
+    color:gray;
+}
+.b1-content{
+    color: thistle;
+    font-size: 12px;
+}
+.b1-heading{
+    color:whitesmoke;
+}
+.footer-b1{
+    display: inline-block;
+    letter-spacing: 0.3px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.v1{
+    display: inline-block;
+    border-left: 0.2px solid thistle;
+    height: 100px;
+    left: 50%;
+    margin-left: -3px;
+    opacity: 0.3;
+    top: 30px;
+    padding-right: 20px;
+}
+.footer-b2{
+    display: inline-block;
+    letter-spacing: 0.5px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.hiblue{
+    color: rgb(83, 83, 182);
+}
